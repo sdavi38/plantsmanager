@@ -3,7 +3,7 @@
     <img src="https://cdn.discordapp.com/attachments/694609874197151754/813851700011335730/NLW04_pack_divulgacao_-_Github.png"  alt="NLW04" />
   </a>
 </p>
-<h2 align="center">Moveit - Next</h2>
+<h2 align="center">Plants - Manager</h2>
 
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
