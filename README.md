@@ -29,49 +29,33 @@ Este repositório contém um  app mobile em React Native, utilizando o Expo e Ty
 
 ## :books: Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
+
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
 
 
 ## :rocket: Começando
 ``` bash
   # Clonar o projeto:
-  $ git clone https://github.com/MatheusPires99/gobarber-2.0 gobarber
+  $ git clone https://github.com/sdavi38/plantsmanager.git
 
   # Entrar no diretório:
-  $ cd gobarber
+  $ cd plantsmanager
 ```
 
 ## :gear: Iniciando back-end
 ```bash
-  # Entrar no diretório do back-end:
-  $ cd backend
-
-  # Instalar as dependências:
-  $ yarn
-
-  # Rodar as migrations:
-  $ yarn typeorm migration:run
+  # O back-end:
+  $ Está aplicação foi desenvolvida com Json-Server
+  https://www.npmjs.com/package/json-server
+  
+    # Comando no terminal dentro da pasta
+    json-server ./src/services/server.json --host"seu ip" --port 3333 --delay 1000
 
   # Rodar a aplicação:
-  $ yarn dev:server
-```
-
-## :computer: Iniciando front-end
-```bash
-  # Entrar no diretório do front-end:
-  $ cd frontend
-
-  # Instalar as dependências:
-  $ yarn
-
-  # Rodar a aplicação:
-  $ yarn start
+  $ expo start
 ```
 
 
-  # Rodar a aplicação:
-  $ yarn ios ou yarn android 
-```
 
 Autor David Bernardo 👋🏻 [Get in touch!](https://github.com/sdavi38)
 
